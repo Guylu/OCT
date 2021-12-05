@@ -1,2 +1,2 @@
 # OCT
-OCT Project at Ronen Basri's lab
+OCT Project at Ronen Basri's lab WIZ
